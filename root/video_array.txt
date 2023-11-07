@@ -1,0 +1,23 @@
+/home/user/data/lxd_data/Videos/login1.mp4
+/home/user/data/lxd_data/Videos/login3.mp4
+/home/user/data/lxd_data/Videos/login2.mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/13. Controllability, Integrability, Backstepping.mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/16. Combinations of Contracting Systems.mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/14. Introduction to Contraction Analysis.mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/17. Virtual Systems.mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/6. Sliding Variables.mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/12. Basic Differential Geometry Tools.mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/7. Robust Control.mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/15. Basic Results in Contraction Analysis.mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/20. How Synchronization Protects from Noise.mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/4. Convergence to Invariant Sets.mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/18. Synchronization.mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/10. Adaptive Robot Control.mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/8. Adaptive Control.mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/1. Introduction.mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/2. Basic Lyapunov Theory.mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/5. Stability of Time-Varying Systems.mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/19. Stable Invariant Subspaces, Polyrhythms.mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/3. Lyapunov Stability Analysis .mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/11. Feedback Linearization.mp4
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/video-lectures/9. Robust Adaptive Control .mp4

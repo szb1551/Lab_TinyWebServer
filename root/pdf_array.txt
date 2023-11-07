@@ -1,0 +1,152 @@
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/课后答案.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/additional-exercises/chapter4Solution.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/additional-exercises/chapter4.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/additional-exercises/chapter2.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/additional-exercises/chapter2Solution.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/Nonlinear Systems (3rd Edition).pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_28.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_30.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_11.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_27.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_16.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_20.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_32.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Plan.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_7.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_38.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_12.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_4.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_35.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_23.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_14.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_19.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_40.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_29.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_5.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_9.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_33.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_17.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_15.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_13.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_31.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_25.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_6.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_22.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_2.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_37.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_41.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_26.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_39.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_24.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_21.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_1.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_18.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_34.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_3.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_36.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_10.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/lecturenotes/Lect_8.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/非线性系统（中文翻译第三版） Khalil.pdf
+/home/user/data/lxd_data/Books/control/nonlinear-systems-khalil/errors.pdf
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/vedio-lectures/.DS_Store
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/Slotine_lectures.pdf
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/applied-nonlinear-control-eng.pdf
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/references/R4 Polyrhythms05.pdf
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/references/R5 journal.pcbi.1000637.PDF
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/references/R3 BioCyb04.pdf
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/references/R1 contraction.pdf
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/references/R7.pdf
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/references/R2 modular.pdf
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/references/93b450cfdf51b052dde7fe25f355c30db6fd.pdf
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/applied-nonlinear-control-chinese-translated.pdf
+/home/user/data/lxd_data/Books/control/applied-nonlinear-control-slotine/.DS_Store
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/Norman.Nise - Control.Systems.Engineering.6th.Edition.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/animation.ppt
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/simulation/ch09.zip
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/simulation/ch11.zip
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/simulation/ch05.zip
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/simulation/ch03.zip
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/simulation/ch04.zip
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/simulation/ch10.zip
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/simulation/AppC.zip
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/simulation/ch06.zip
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/simulation/ch08.zip
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/simulation/ch12.zip
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/simulation/ch07.zip
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/simulation/ch02.zip
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/simulation/AppD.zip
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/simulation/ch13.zip
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/AnswersToSelectedProblems.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/ch1/animation.ppt
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/ch1/ch01.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/ch1/cyber_exploration_lab_exp.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/ch1/solutions-mannual/ch08.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/ch1/solutions-mannual/ch05.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/ch1/solutions-mannual/ch11.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/ch1/solutions-mannual/ch03.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/ch1/solutions-mannual/ch06.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/ch1/solutions-mannual/ch10.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/ch1/solutions-mannual/ch01.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/ch1/solutions-mannual/ch13.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/ch1/solutions-mannual/ch12.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/ch1/solutions-mannual/ch07.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/ch1/solutions-mannual/ch04.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/ch1/solutions-mannual/ch09.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/ch1/solutions-mannual/ch02.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/powerpoints/ch13.ppt
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/powerpoints/ch08.ppt
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/powerpoints/ch06.ppt
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/powerpoints/ch05.ppt
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/powerpoints/ch09.ppt
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/powerpoints/ch07.ppt
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/powerpoints/JSMPROXY
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/powerpoints/ch04.ppt
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/powerpoints/ch01.ppt
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/powerpoints/ch11.ppt
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/powerpoints/ch12.ppt
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/powerpoints/ch03.ppt
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/powerpoints/ch10_r.ppt
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/powerpoints/ch02.ppt
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/appendix/appendixI.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/appendix/appendixE.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/appendix/index.html
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/appendix/higheredwiley.custhelp.com.html
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/appendix/appendixJ.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/appendix/appendixM.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/appendix/appendixK.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/appendix/appendixG.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/appendix/id-301465.html
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/appendix/appendixF.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/appendix/appendixL.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/appendix/appl.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/appendix/JSMPROXY.html
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/appendix/appi.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/appendix/Books.html
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/appendix/appendixH.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/cyber_exploration_lab_exp.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/sol_skills_assessment.pdf
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/appendix-h-program/Step_Response_Install.zip
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/appendix-h-program/Root_Locus_Install.zip
+/home/user/data/lxd_data/Books/control/control-system-engineering-norman-s.-nise/appendix-h-program/Readme
+/home/user/data/lxd_data/Books/mpc/nonlinear_grune/cmpc21_static.pdf
+/home/user/data/lxd_data/Books/mpc/nonlinear_grune/Errata for the 2nd edition.pdf
+/home/user/data/lxd_data/Books/mpc/nonlinear_grune/Nonlinear Model Predictive Control_ Theory and Algorithms [Grüne & Pannek 2011-04-10].pdf
+/home/user/data/lxd_data/Books/mpc/nonlinear_grune/matlab_nmpc_w_exam_1ed.zip
+/home/user/data/lxd_data/Books/mpc/nonlinear_grune/ai_control_2021.pdf
+/home/user/data/lxd_data/Books/mpc/nonlinear_grune/Nonlinear Model Predictive Control Theory and Algorithms, 2nd edition (Lars Grüne, Jürgen Pannek) (Z-Library).epub
+/home/user/data/lxd_data/Books/mpc/nonlinear_grune/aices16_slides.pdf
+/home/user/data/lxd_data/Books/mpc/nonlinear_grune/matlab_nmpc_w_exam_2ed.zip
+/home/user/data/lxd_data/Books/mpc/Predictive Control for Linear and Hybrid Systems (Francesco Borrelli, Alberto Bemporad etc.) (Z-Library).pdf
+/home/user/data/lxd_data/Books/mpc/Model Predictive Control- Theory and Design.pdf
+/home/user/data/lxd_data/Books/mpc/Liuping Wang_2009_Model Predictive Control Design and implementation using MATLAB (T-3).pdf
+/home/user/data/lxd_data/Books/rl/Grokking Deep Reinforcement Learning by Miguel Morales (z-lib.org).pdf
+/home/user/data/lxd_data/Books/math/Thomas Calculus Early Transcendentals, 13th Edition .pdf
+/home/user/data/lxd_data/Books/math/Introduction to Linear Algebra, 4th edition (with Solutions manual) (Strang Gilbert.)/Introduction to Linear Algebra. Strang. 2009, 4ed.1.pdf
+/home/user/data/lxd_data/Books/math/Introduction to Linear Algebra, 4th edition (with Solutions manual) (Strang Gilbert.)/Introduction to Linear Algebra. Strang. 4ed. Solutions Manual ver13.pdf
+/home/user/data/lxd_data/Books/math/Introduction to Probability, Statistics, and Random Processes (Hossein Pishro-Nik) (Z-Library).pdf
+/home/user/data/lxd_data/Books/math/Thomas Calculus Early Transcendentals, 13th Edition (Solution Manual) (George B. Thomas, Jr., Maurice D. Weir etc.) (Z-Library).pdf
+/home/user/data/lxd_data/Books/math/Students Solutions Guide for Introduction to Probability, Statistics, and Random Processes (Hossein Pishro-Nik) (Z-Library).pdf
+/home/user/data/lxd_data/Books/math/Intuitive Probability and Random Processes using Matlab (Steven Kay) (Z-Library).pdf
+/home/user/data/lxd_data/Books/optimization/Lectures on Modern Convex Optimization Analysis, Algorithms, and Engineering Applications (MPS-SIAM Series on Optimization) by Aharon Ben-Tal, Arkadi Nemirovski (z-lib.org).pdf
+/home/user/data/lxd_data/Books/optimization/convex optimization.pdf
+/home/user/data/lxd_data/Books/optimization/Introductory Lectures on Convex Optimization A Basic Course by Yurii Nesterov (auth.) (z-lib.org).pdf
